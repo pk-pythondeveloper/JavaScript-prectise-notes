@@ -36,3 +36,16 @@ let temp=null
 let temp1=String(temp)
 console.log(typeof(temp)) //object
 console.log(temp)  //we get null vaue
+
+
+//when we try to convert the these values in number
+//"33" =>33
+//"44adv"=>Nan(not a number)
+//true =>1
+//false >0
+
+//when we try to change in boolean 
+//1=>true
+//0=>false
+//""=>false  //when we try to change the empty string in Boolean
+//"prince"=>true
