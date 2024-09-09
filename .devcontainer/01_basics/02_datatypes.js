@@ -29,3 +29,10 @@ let str1=Number(str)
 console.log(typeof(str1))
 console.log(str1)
 //when we want to change a variables to another variables but its can not able to change its give NAN
+
+//if we assine null value in variable
+let temp=null
+
+let temp1=String(temp)
+console.log(typeof(temp)) //object
+console.log(temp)  //we get null vaue
