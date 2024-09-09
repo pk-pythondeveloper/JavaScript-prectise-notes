@@ -1,4 +1,11 @@
-//number:-its storte number
+
+//primitive datatypes
+//These are 7 =>Number,string, Boolean,null, undefined, Symbol,BigInt
+
+let bignumer=77472347209092728n
+console.log(typeof(bignumer))
+
+//number:-its store number
 let a=1233
 //bigint:-it use when we have the number larger the 2 to the power 53
 
@@ -49,3 +56,7 @@ console.log(temp)  //we get null vaue
 //0=>false
 //""=>false  //when we try to change the empty string in Boolean
 //"prince"=>true
+
+//non primitive
+
+//array ,object,function
