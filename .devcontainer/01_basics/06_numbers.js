@@ -21,3 +21,4 @@ console.log(Math.rendom(-4783478,7,8,734,646,62378))//to gives the rendom value
 
 
 
+
