@@ -48,4 +48,4 @@ console.log(arr4)
 console.log(Array.isArray("prince"))  //it gives true and false according to given elents in side
 console.log(Array.from("rampura village")) //its convert string to array when it able to chagnge it give empty array
 
-console.log(Array.from({name:'ritesh'})) //it give empty array when it not able to vhange
+console.log(Array.from({name:'ritesh'})) //it give empty array when it not able to change
